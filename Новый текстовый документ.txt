@@ -1,2 +1,0 @@
-Команда архивация Linux zip -r -9 HLDS.zip ./HLDS
-
